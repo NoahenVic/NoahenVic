@@ -1,13 +1,4 @@
-# `README.md` for your GitHub profile repo
-
-Create a **new public repository named exactly `NoahenVic`**. GitHub uses that special repo as your profile README.
-
-Paste the content below into `README.md`:
-
-```md
 <div align="center">
-
-# Noah / NoaxH
 ### Building weird, polished and actually fun stuff on the web
 
 <p>
@@ -84,27 +75,3 @@ A clean site template built for RC Cup teams, with JSON-driven content, NL/EN su
 <div align="center">
   <sub>Built with curiosity, experiments and probably too many tabs open.</sub>
 </div>
-```
-
-## Optional extras
-
-### `README` improvements that would make this profile much stronger
-
-* Add a small banner at the top with your name and a dark tech aesthetic
-* Pin **exactly 3 to 6 repos** only
-* Give `RC-CUP-Template` a better repo description
-* Add preview screenshots or GIFs to your best repos
-* Make repo topics consistent: `javascript`, `encoding`, `unicode`, `webapp`, `template`
-
-## Best pin order
-
-1. `BASE985161`
-2. `RC-CUP-Template`
-3. `BASE262144`
-4. next best original project
-5. next best polished project
-6. profile repo itself only if needed
-
-## Repo description suggestion for your profile
-
-`Experimental builder making web tools, encoding projects and polished templates.`
