@@ -15,8 +15,8 @@
 ---
 
 ## 💫 About Me
-🔭 currently working on: side projects  
-🌱 currently learning: JS, Python, CSS, HTML  
+🔭 currently working on: questic.app  
+🌱 currently learning: nothing  
 
 I build experimental tools, web apps and weird ideas that somehow work.
 
