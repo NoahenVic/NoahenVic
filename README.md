@@ -1,12 +1,15 @@
 <div align="center">
 
-# Noah / NoaxH  
-### building weird, polished & actually fun stuff
+# Noah / NoaxH
+
+### Experimental software, unusual codecs and polished web products.
+
+I turn ideas that sound slightly unreasonable into tools that actually work.
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=NoahenVic&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=NoahenVic&label=Profile%20views&color=0e75b6&style=flat-square" />
   <a href="https://youtube.com/@luau.invincible">
-    <img src="https://img.shields.io/badge/YouTube-Luau.Invincible-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-Luau.Invincible-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   </a>
 </p>
 
@@ -14,74 +17,75 @@
 
 ---
 
-## 💫 About Me
-🔭 currently working on: questic.app  
-🌱 currently learning: nothing  
+## Currently
 
-I build experimental tools, web apps and weird ideas that somehow work.
+Building **[questic.app](https://questic.app)** and experimenting with tools, encoding systems and web products.
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 [BASE985161](https://github.com/NoahenVic/BASE985161)
-Binary-to-text codec using **985,161 Unicode symbols**  
-→ web app + Python + JavaScript support  
-
-### 🔹 [BASE262144](https://github.com/NoahenVic/BASE262144)
-Experimental encoding where **1 char = 18 bits**  
-→ strange output, fully reversible  
-
-### 🔹 [RC-CUP-Template](https://github.com/NoahenVic/RC-CUP-Template)
-Clean team website template  
-→ JSON-driven + multi-language support  
+**Currently learning:** whatever the current project forces me to learn.
 
 ---
 
-## 🌐 Socials
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@luau.invincible)
+## Selected work
+
+### [BASE985161](https://github.com/NoahenVic/BASE985161)
+
+A binary-to-text codec built around **985,161 Unicode symbols**.
+
+It includes a web interface and implementations in Python and JavaScript.  
+Completely reversible, wildly impractical and surprisingly functional.
 
 ---
 
-## 💻 Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=js,html,css,python,nodejs,vercel,git,github,vscode" />
-</p>
+### [BASE262144](https://github.com/NoahenVic/BASE262144)
+
+An experimental encoding system where every character represents **18 bits of data**.
+
+The output looks strange, but the original data can be reconstructed exactly.
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
+### [RC-CUP-Template](https://github.com/NoahenVic/RC-CUP-Template)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NoahenVic&theme=blue_navy&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahenVic&theme=blue_navy&hide_border=true&layout=compact" />
+A clean website template for competitive teams and community projects.
 
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=NoahenVic&theme=blue_navy&hide_border=true" />
-
-</div>
+Content is managed through JSON, with built-in multi-language support and a structure that is easy to customise.
 
 ---
 
-## 🧠 What I Care About
-- building things that feel polished  
-- turning weird ideas into real tools  
-- learning by shipping  
-- keeping things simple  
+## How I Build
 
----
+```text
+idea → prototype → break things → refine → ship
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I care about:
 
----
+interfaces that feel intentional
+code that stays understandable
+unusual ideas with real implementations
+polishing the details most people ignore
+learning by actually releasing things
+Tools I Use
+<p> <img src="https://skillicons.dev/icons?i=js,html,css,python,nodejs,vercel,git,github,vscode" /> </p>
 
-### 🔝 Top Contributions
-![](https://github-contributor-stats.vercel.app/api?username=NoahenVic&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Most projects start somewhere between JavaScript, Python and a questionable amount of browser tabs.
 
----
+<details> <summary><b>GitHub activity</b></summary> <br> <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=NoahenVic&theme=blue_navy&hide_border=true&show_icons=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahenVic&theme=blue_navy&hide_border=true&layout=compact" /> </div> </details>
+Elsewhere
 
-<div align="center">
-  <sub>built with curiosity, experiments & probably too many tabs open</sub>
-</div>
+I also publish development experiments and project videos on
+YouTube: Luau.Invincible
+
+<div align="center"> <sub>Build strange things. Make them work. Polish the result.</sub> </div> ```
+Waarom deze sterker is
+
+Ik heb de Dev Quote, streak-card en “Top Contributions” bewust verwijderd. Die elementen staan op duizenden profielen en geven onmiddellijk dat gegenereerde README-gevoel.
+
+Je projecten krijgen nu meer ruimte en worden concreet beschreven. Vooral zinnen zoals:
+
+“Completely reversible, wildly impractical and surprisingly functional.”
+
+geven persoonlijkheid zonder onprofessioneel of overdreven grappig te klinken.
+
+Ook deze is veel beter dan “currently learning: nothing”:
+
+Currently learning: whatever the current project forces me to learn.
