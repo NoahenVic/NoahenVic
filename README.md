@@ -76,16 +76,3 @@ I also publish development experiments and project videos on
 YouTube: Luau.Invincible
 
 <div align="center"> <sub>Build strange things. Make them work. Polish the result.</sub> </div> ```
-Waarom deze sterker is
-
-Ik heb de Dev Quote, streak-card en “Top Contributions” bewust verwijderd. Die elementen staan op duizenden profielen en geven onmiddellijk dat gegenereerde README-gevoel.
-
-Je projecten krijgen nu meer ruimte en worden concreet beschreven. Vooral zinnen zoals:
-
-“Completely reversible, wildly impractical and surprisingly functional.”
-
-geven persoonlijkheid zonder onprofessioneel of overdreven grappig te klinken.
-
-Ook deze is veel beter dan “currently learning: nothing”:
-
-Currently learning: whatever the current project forces me to learn.
