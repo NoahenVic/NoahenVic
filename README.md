@@ -25,13 +25,17 @@ I turn ideas that sound slightly unreasonable into tools that actually work.
 
 ## Currently
 
-Building **[questic.app](https://questic.app)** and experimenting with web products, encoding systems and developer tools.
+Building **[questic.app](https://questic.app)** and developing a custom Minecraft server framework for **[ShotSurvival.net](https://shotsurvival.net)**.
 
 **Currently learning:** whatever the current project forces me to learn.
 
 ---
 
 ## Selected Work
+
+### [ShotSurvival Framework](https://shotsurvival.net)
+
+A custom Minecraft server framework built to power ShotSurvival's core systems and provide a clean foundation for future features.
 
 ### [BASE985161](https://github.com/NoahenVic/BASE985161)
 
@@ -73,12 +77,12 @@ I care about:
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=js,html,css,python,nodejs,vercel,git,github,vscode"
-    alt="JavaScript, HTML, CSS, Python, Node.js, Vercel, Git, GitHub and Visual Studio Code"
+    src="https://skillicons.dev/icons?i=java,js,html,css,python,nodejs,vercel,git,github,vscode"
+    alt="Java, JavaScript, HTML, CSS, Python, Node.js, Vercel, Git, GitHub and Visual Studio Code"
   />
 </p>
 
-Most projects start somewhere between JavaScript, Python and a questionable amount of browser tabs.
+Most projects start somewhere between Java, JavaScript, Python and a questionable amount of browser tabs.
 
 ---
 
