@@ -25,7 +25,7 @@ I turn ideas that sound slightly unreasonable into tools that actually work.
 
 ## Currently
 
-Building **[questic.app](https://questic.app)** and developing a custom Minecraft server framework for **[ShotSurvival.net](https://shotsurvival.net)**.
+Building **[questic.app](https://questic.app)** and developing a custom Minecraft server framework for **[ShotSurvival.net](https://www.shotsurvival.net)**.
 
 **Currently learning:** whatever the current project forces me to learn.
 
@@ -33,7 +33,7 @@ Building **[questic.app](https://questic.app)** and developing a custom Minecraf
 
 ## Selected Work
 
-### [ShotSurvival Framework](https://shotsurvival.net)
+### [ShotSurvival Framework](https://www.shotsurvival.net)
 
 A custom Minecraft server framework built to power ShotSurvival's core systems and provide a clean foundation for future features.
 
@@ -44,12 +44,6 @@ A binary-to-text codec built around **985,161 Unicode symbols**.
 Includes a web interface and implementations for both Python and JavaScript.
 
 Completely reversible, wildly impractical and surprisingly functional.
-
-### [BASE262144](https://github.com/NoahenVic/BASE262144)
-
-An experimental encoding system where every character represents **18 bits of data**.
-
-The output looks strange, but the original data can be reconstructed exactly.
 
 ### [RC-CUP-Template](https://github.com/NoahenVic/RC-CUP-Template)
 
