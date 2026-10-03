@@ -25,7 +25,7 @@ I turn ideas that sound slightly unreasonable into tools that actually work.
 
 ## Currently
 
-Building **[questic.app](https://questic.app)** and developing a custom Minecraft server framework for **[ShotSurvival.net](https://www.shotsurvival.net)**.
+Developing a custom Minecraft server framework for **[ShotSurvival.net](https://www.shotsurvival.net)**.
 
 **Currently learning:** whatever the current project forces me to learn.
 
