@@ -11,9 +11,9 @@ I turn ideas that sound slightly unreasonable into tools that actually work.
     src="https://komarev.com/ghpvc/?username=NoahenVic&label=Profile%20views&color=0e75b6&style=flat-square"
     alt="Profile views"
   />
-  <a href="https://youtube.com/@luau.invincible">
+  <a href="https://www.youtube.com/@NoaxhEXE">
     <img
-      src="https://img.shields.io/badge/YouTube-Luau.Invincible-FF0000?style=flat-square&logo=youtube&logoColor=white"
+      src="https://img.shields.io/badge/YouTube-NoaxhEXE-FF0000?style=flat-square&logo=youtube&logoColor=white"
       alt="YouTube"
     />
   </a>
